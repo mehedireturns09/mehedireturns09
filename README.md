@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Backend Framework**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **mehedireturns09@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nxLLqGCsOTS3fukXxTilHXhOfwW5Bbja/view?usp=sharing](https://drive.google.com/file/d/1nxLLqGCsOTS3fukXxTilHXhOfwW5Bbja/view?usp=sharing)
